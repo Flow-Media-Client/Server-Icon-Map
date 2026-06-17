@@ -137,6 +137,22 @@
     {
       "name": "假日旅馆 103",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/refs/heads/main/Emby/JMS-02.png"
+    },
+    {
+      "name": "AlphaTV-PRO",
+      "url": "https://emby-icon.vercel.app/icons/Alpha_Pro.PNG"
+    },
+    {
+      "name": "影视媒体库",
+      "url": "https://emby-icon.vercel.app/icons/Alpha.PNG"
+    },
+    {
+      "name": "Alpha-Child",
+      "url": "https://emby-icon.vercel.app/icons/Alpha_Kid.PNG"
+    },
+    {
+      "name": "Lunaris Vault",
+      "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LunarisVault-01.png"
     }
   ]
 }
