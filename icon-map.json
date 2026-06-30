@@ -168,7 +168,19 @@
     },
     {
       "name": "SNTP Premium",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/shouhou%2810%29SNTP-emby.png"
+      "url": "https://raw.githubusercontent.com/Flow-Media-Client/Server-Icon-Map/main/Assets/SNTP/sntpp.jpg"
+    },
+    {
+      "name": "SNTP Media Server 2",
+      "url": "https://raw.githubusercontent.com/Flow-Media-Client/Server-Icon-Map/main/Assets/SNTP/sntp.jpg"
+    },
+    {
+      "name": "SNTP Media Server 3",
+      "url": "https://raw.githubusercontent.com/Flow-Media-Client/Server-Icon-Map/main/Assets/SNTP/sntp.jpg"
+    },
+    {
+      "name": "SNTP Media Lite",
+      "url": "https://raw.githubusercontent.com/Flow-Media-Client/Server-Icon-Map/main/Assets/SNTP/sntp-lite.jpg"
     }
   ]
 }
