@@ -205,6 +205,10 @@
     {
       "name": "Magpie",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/magpie%282%29-emby.png"
+    },
+    {
+      "name": "Panda CINE",
+      "url": "https://raw.githubusercontent.com/lige47/lige_icon/refs/heads/main/icon/emby/pandatv-emby.png"
     }
   ]
 }
