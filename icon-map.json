@@ -209,6 +209,14 @@
     {
       "name": "Panda CINE",
       "url": "https://raw.githubusercontent.com/lige47/lige_icon/refs/heads/main/icon/emby/pandatv-emby.png"
+    },
+    {
+      "name": "OkEmby",
+      "url": "https://raw.githubusercontent.com/lige47/lige_icon/refs/heads/main/icon/emby/Ok-emby.png"
+    },
+    {
+      "name": "乐蛙",
+      "url": "https://raw.githubusercontent.com/lige47/lige_icon/refs/heads/main/icon/emby/Lewamovie(1).png"
     }
   ]
 }
